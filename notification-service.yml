@@ -1,4 +1,4 @@
-spring
+spring:
   mail:
     host: smtp.gmail.com
     username: ketanthakur10101010@gmail.com
